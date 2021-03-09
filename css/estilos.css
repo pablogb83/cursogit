@@ -99,7 +99,7 @@ body {
 .titulo {
     text-align: center;
     padding: 20px 0 15px 0;
-    color: orange;
+    color: rgba(255, 166, 0, 0.685);
     font-size: 35px;
 }
 
